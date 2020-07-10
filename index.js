@@ -99,4 +99,3 @@ let fibonacci = {
         });
     }
 };
-fibonacci.init(60000);
